@@ -1,4 +1,18 @@
 #! /usr/bin/ruby
+#
+#Script Written by Thomas Harriett
+#
+#  ___________  ___       __    __   
+# ("     _   ")|"  |     /" |  | "\  
+#  )__/  \\__/ ||  |    (:  (__)  :) 
+#     \\_ /    |:  |     \/      \/  
+#     |.  |     \  |___  //  __  \\  
+#     \:  |    ( \_|:  \(:  (  )  :) 
+#      \__|     \_______)\__|  |__/  
+#                                                              
+#
+#
+#
 require 'faraday'
 require 'launchy'
 require 'colorize'
