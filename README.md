@@ -9,4 +9,4 @@ A simple script which searches for and displays imgur images.
     json
 
 ## Known Issues:
-    If the program doesn't find any gallaries, the program will break.
+    If the program doesn't find any galleries, the program will break.
